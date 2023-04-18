@@ -11,4 +11,3 @@ newvpc =ec2.create_vpc(CidrBlock="10.8.0.0/16")
 pprint.pprint(newvpc)
 
 
-
